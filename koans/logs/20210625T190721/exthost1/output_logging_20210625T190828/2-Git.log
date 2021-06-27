@@ -1,0 +1,21 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.22.0.windows.1 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --git-dir
+Open repository: c:\Users\marco
+> git status -z -u
+> git check-ignore -v -z --stdin
+Opening repository for path='c:\Users\marco\onedrive\documentos\bcmay21\koans\koans' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "status",
+  "stderr": "warning: could not open directory 'AppData/Local/Archivos temporales de Internet/': Permission denied\nwarning: could not open directory 'AppData/Local/Datos de programa/': Permission denied\nwarning: could not open directory 'AppData/Local/ElevatedDiagnostics/': Permission denied\nwarning: could not open directory 'AppData/Local/Historial/': Permission denied\nwarning: could not open directory 'AppData/Local/Microsoft/Windows/INetCache/Content.IE5/': Permission denied\nwarning: could not open directory 'AppData/Local/Microsoft/Windows/Temporary Internet Files/': Permission denied\nfatal: Out of memory, malloc failed (tried to allocate 1048576 bytes)\n"
+}
+> git status -z -u
+> git status -z -u
+> git show --textconv :onedrive/documentos/bcmay21/koans/koans/about_array_assignment.rb
+> git ls-files --stage -- C:\Users\marco\onedrive\documentos\bcmay21\koans\koans\about_array_assignment.rb
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- C:\Users\marco\onedrive\documentos\bcmay21\koans\koans\about_array_assignment.rb
+> git show --textconv :onedrive/documentos/bcmay21/koans/koans/about_array_assignment.rb
+> git check-ignore -v -z --stdin
+> git show --textconv :onedrive/documentos/bcmay21/koans/koans/about_array_assignment.rb
+> git ls-files --stage -- C:\Users\marco\onedrive\documentos\bcmay21\koans\koans\about_array_assignment.rb

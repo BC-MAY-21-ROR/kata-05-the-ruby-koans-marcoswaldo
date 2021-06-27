@@ -1,0 +1,48 @@
+{
+    "telemetry.machineId": "b410e56ba41fc20ce51b3660edfca5d6a976d4ff90737d20e31835bb2cf9adc0",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///c%3A/Users/marco/onedrive/documentos/bcmay21/koans/koans"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/marco/onedrive/documentos/bcmay21/koans/koans",
+            "backupPath": "C:\\Users\\marco\\onedrive\\documentos\\bcmay21\\koans\\koans\\Backups\\6fc3c5e431f0a2c13d1c7819acabdc09",
+            "uiState": {
+                "mode": 0,
+                "x": 256,
+                "y": 48,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

@@ -1,0 +1,18 @@
+[2021-06-25 19:08:00.493] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-25 19:08:09.712] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter c:\Users\marco\.vscode\extensions\ms-toolsai.jupyter-2021.6.999406279
+[2021-06-25 19:08:11.327] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance c:\Users\marco\.vscode\extensions\ms-python.vscode-pylance-2021.6.2
+[2021-06-25 19:08:17.679] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2021-06-25 19:08:28.582] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack c:\Users\marco\onedrive\documentos\bcmay21\koans\koans\CachedExtensionVSIXs\vscjava.vscode-java-pack-0.17.0
+[2021-06-25 19:08:29.719] [sharedprocess] [info] Extracted extension to c:\Users\marco\.vscode\extensions\.4a62ac22-6caa-47d7-bdea-ddd77e56e824: vscjava.vscode-java-pack
+[2021-06-25 19:08:29.859] [sharedprocess] [info] Renamed to c:\Users\marco\.vscode\extensions\vscjava.vscode-java-pack-0.17.0
+[2021-06-25 19:08:29.890] [sharedprocess] [info] Installation completed. vscjava.vscode-java-pack
+[2021-06-25 19:08:30.319] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-pack
+[2021-06-25 19:08:34.486] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-25 22:20:29.789] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-25 22:22:46.137] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2021-06-25 22:22:49.284] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl c:\Users\marco\onedrive\documentos\bcmay21\koans\koans\CachedExtensionVSIXs\ms-vscode-remote.remote-wsl-0.56.5
+[2021-06-25 22:22:51.762] [sharedprocess] [info] Extracted extension to c:\Users\marco\.vscode\extensions\.14d5cb05-b6cf-4d2d-85c9-b58227fcabf5: ms-vscode-remote.remote-wsl
+[2021-06-25 22:22:52.109] [sharedprocess] [info] Renamed to c:\Users\marco\.vscode\extensions\ms-vscode-remote.remote-wsl-0.56.5
+[2021-06-25 22:22:52.451] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-wsl
+[2021-06-25 22:22:52.454] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-wsl
+[2021-06-25 22:26:35.774] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
